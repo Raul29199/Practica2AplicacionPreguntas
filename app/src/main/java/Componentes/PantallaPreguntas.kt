@@ -42,6 +42,7 @@ import kotlin.random.Random
 fun Juego(){
 
     var lista = ArrayList<Preguntas>()
+//
 
     //Creamos las diferentes preguntas,con las imagenes y respuestas
     lista.add(Preguntas("¿Es pikachu el más fuerte?", R.drawable.pickachu, false))
